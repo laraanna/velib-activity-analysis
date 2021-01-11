@@ -1,5 +1,4 @@
-# Velib Activity Analysis 
-## before and during the first lockdown in Paris
+# Velib Activity Analysis before and during the first lockdown in Paris
 
 ### 1. Get Started
 ```bash
