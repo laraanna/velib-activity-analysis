@@ -43,6 +43,9 @@ Velib data on disponibility in real time:
 - **updated:** the timestamp of the update
 
 ### 4. Preview
-
+#### Timelapse of station activity 11/03/2020 (Wednesday before lockdown)
+![wed_prelockdown_timelapse](/assets/wed_prelockdown_timelapse.gif)
+#### Timelapse of station activity 18/03/2020 (Wednesday first day of lockdown)
+![wed_lockdown_timelapse](/assets/wed_lockdown_timelapse.gif)
 
 
