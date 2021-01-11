@@ -43,6 +43,10 @@ Velib data on disponibility in real time:
 - **updated:** the timestamp of the update
 
 ### 4. Preview
+#### Velib Stations in Paris
+![velib_stations](/assets/Screenshot_2.png)
+#### Density of Bike stands in Paris
+![density](/assets/Screenshot_1.png)
 #### Timelapse of station activity 11/03/2020 (Wednesday before lockdown)
 ![wed_prelockdown_timelapse](/assets/wed_prelockdown_timelapse.gif)
 #### Timelapse of station activity 18/03/2020 (Wednesday first day of lockdown)
